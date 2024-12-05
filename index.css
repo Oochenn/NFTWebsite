@@ -5,7 +5,6 @@ body{
     margin: 0;
 }
 
-/* typography */
 
 h1, h3{
     margin: 0;
@@ -50,7 +49,35 @@ Challenge:
    names for these links? 
 */
 
-/* layout */
+.btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 19px;
+    padding-right: 19px;
+    border-radius: 4.6px;
+    font-weight: 500;
+}
+
+.btn-dark {
+    background-color: #5f29a3;
+    color: whitesmoke;
+}
+
+.btn-pink {
+    background-color: #f0e0ff;
+    color: #5f29a3;
+}
+
+.btn-light {
+    background-color: whitesmoke;
+    color: #5f29a3;
+}
+
+.btn-yellow {
+    background-color: #f3e885;
+    color: #2b283a;
+}
+
 
 header, section, footer{
     padding: 45px 0;
